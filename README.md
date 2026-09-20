@@ -1,6 +1,6 @@
 # TP2 — ABB aumentado e índice doble
 
-> Completar antes de entregar: grupo, integrantes, CIC y Declaración de Honor requerida por la cátedra.
+> Ivan David Ocampos Acosta.
 
 ## Diseño
 
