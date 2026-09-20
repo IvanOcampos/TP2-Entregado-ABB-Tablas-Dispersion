@@ -1,0 +1,6 @@
+# Archivos compilados de Java
+*.class
+
+# Configuración local de IntelliJ IDEA
+.idea/
+*.iml
